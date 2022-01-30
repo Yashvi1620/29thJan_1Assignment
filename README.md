@@ -1,1 +1,1 @@
-# 29thJan_1Assignment
+# 29thJan_1Assignment to find prime number
